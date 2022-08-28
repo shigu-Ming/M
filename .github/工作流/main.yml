@@ -1,0 +1,19 @@
+{
+# 公众号配置
+# 公众号appld
+"app_id”:"wxa4f47bffe0197c70",
+# 公众号appSerect
+"app_secret":"9bd90fad24ae783c2ea7369c74f52bc6",
+# 模板消息id
+"template_id":"W17T6SvzB-WPvr-GHUfyJU0AYJOPSrgGzj5Xsw2mYVM",
+"user":"oaaLp58OzWfGek1BkKltT8rmOYQ4"
+
+#信息配置
+#和风天气apikey
+"weather key":"2bca35858f5e41c0bf2aae5cfde4564c",
+"region":"河北省石家庄市长安区",
+"brithday1":{"name":"陈瑞","brithday":"2005-03-16"},
+"born_date":"2005-03-16",
+"note_ch":"",
+"note_en":""
+}
